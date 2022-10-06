@@ -1,2 +1,3 @@
 console.log("Hello world")
-console.log("I didn't see where are you, Eric?")
+console.log("hi Ricky this is eric")
+console.log("还要搞什么？")
