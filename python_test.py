@@ -15,3 +15,4 @@ print('Ricky: Merge into Main: Now I have some new update to main. Ricky accept 
 
 print('Hello, I am Wei, and I am working on my branch 2.0.')
 print('Eric: Hi im here')
+print('Ricky2.0: Ricky ''s work is done, ready to merge to main')
