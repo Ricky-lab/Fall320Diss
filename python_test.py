@@ -6,3 +6,5 @@ print('Ricky: I have deleted all the branches that we created')
 
 print('Ricky: Test to main branch.')
 print('Ricky: Update to main branch.')
+
+print('Updated: the main branch has been updated, sync with main branch')
