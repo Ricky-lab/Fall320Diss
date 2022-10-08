@@ -11,4 +11,4 @@ print('Updated: the main branch has been updated, sync with main branch')
 
 print('Ricky: Merge into Main: Now I have some new update to main. Ricky accept my update.')
 
-print('Hello, I am Wei, and I am working on my branch.')
+print('Hello, I am Wei, and I am working on my branch 2.0.')
