@@ -10,3 +10,5 @@ print('Ricky: Update to main branch.')
 print('Updated: the main branch has been updated, sync with main branch')
 
 print('Ricky: Merge into Main: Now I have some new update to main. Ricky accept my update.')
+
+print('Ricky2.0: This is a new branch.')
